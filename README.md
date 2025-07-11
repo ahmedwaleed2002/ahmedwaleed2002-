@@ -90,16 +90,14 @@ Welcome to my digital universe! I'm a **passionate Laravel Developer** and **AI 
 <div align="center">
 
 ### 🧠 **Revolutionary EEG Signal Classification for Sleep Disorder Analysis**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwaleed2002&repo=eeg-sleep-analysis&theme=tokyonight)](https://github.com/ahmedwaleed2002)
 
 **Breakthrough healthcare AI solution** transforming neurological diagnostics through advanced signal processing
 - 🔬 **Tech Stack**: Python, TensorFlow, Signal Processing, Neural Networks, MATLAB
-- 📊 **Achievement**: 94% accuracy in sleep disorder classification, published research findings
+- 📈 **Achievement**: 94% accuracy in sleep disorder classification, published research findings
 - 🏥 **Impact**: Revolutionizing early detection of sleep disorders, reducing diagnosis time by 70%
 - 🎯 **Innovation**: First-of-its-kind automated EEG analysis for Pakistani healthcare sector
 
 ### 💼 **AI-Driven Job Portal & Intelligent Recruitment Ecosystem**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwaleed2002&repo=ai-recruitment-portal&theme=tokyonight)](https://github.com/ahmedwaleed2002)
 
 **Next-generation recruitment platform** powered by advanced AI algorithms and machine learning
 - 🔧 **Tech Stack**: Laravel, Node.js, Vue.js, AI/ML Algorithms, Natural Language Processing
@@ -108,7 +106,6 @@ Welcome to my digital universe! I'm a **passionate Laravel Developer** and **AI 
 - 🚀 **Innovation**: Real-time skill gap analysis and market-demand prediction
 
 ### 🕵️ **Advanced Fake News Detection & Information Verification System**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwaleed2002&repo=fake-news-detector&theme=tokyonight)](https://github.com/ahmedwaleed2002)
 
 **Cutting-edge NLP solution** combating misinformation with state-of-the-art text analysis
 - 🧠 **Tech Stack**: Python, NLP, BERT Transformers, Machine Learning, Node.js API, React
@@ -117,16 +114,15 @@ Welcome to my digital universe! I'm a **passionate Laravel Developer** and **AI 
 - 🌍 **Scale**: Processing 10,000+ articles daily, protecting millions from misinformation
 
 ### 🔧 **Professional Node.js File Explorer CLI Tool**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwaleed2002&repo=tasksf5&theme=tokyonight)](https://github.com/ahmedwaleed2002/tasksf5)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/ahmedwaleed2002/tasksf5)
 
 **Enterprise-grade command-line tool** for advanced file system analysis and management
 - ⚙️ **Tech Stack**: Node.js, fs.statSync, Chalk, Readline, Advanced Error Handling
 - 🎨 **Features**: Interactive exploration, color-coded output, human-readable sizes, smart sorting
 - 🚀 **Capabilities**: Recursive analysis, performance optimization, comprehensive statistics
-- 📊 **Usage**: Adopted by development teams for project analysis and system auditing
+- 📈 **Usage**: Adopted by development teams for project analysis and system auditing
 
 ### 🏥 **Healthcare Management & Patient Portal System**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedwaleed2002&repo=healthcare-portal&theme=tokyonight)](https://github.com/ahmedwaleed2002)
 
 **Comprehensive healthcare ecosystem** streamlining patient care and medical workflows
 - 🔧 **Tech Stack**: Laravel, Vue.js, MySQL, Redis, Socket.io, Medical APIs
@@ -155,8 +151,6 @@ Welcome to my digital universe! I'm a **passionate Laravel Developer** and **AI 
 ---
 
 ## 🎯 Current Focus & Future Vision
-
-<div align="center">
 
 ```javascript
 const ahmedWaleed = {
@@ -190,9 +184,6 @@ const ahmedWaleed = {
     },
     philosophy: "Code with purpose, innovate with passion, impact with intelligence"
 };
-```
-
-</div>
 
 ---
 
@@ -246,8 +237,6 @@ I'm passionate about creating **meaningful technology solutions** that make a re
   
 ### 🌟 "The best way to predict the future is to create it." - Peter Drucker
 
-![Snake Animation](https://raw.githubusercontent.com/ahmedwaleed2002/ahmedwaleed2002/output/github-contribution-grid-snake-dark.svg)
-
 ### 🎮 **Fun Zone**
 <details>
 <summary>🎯 Click to see my coding stats!</summary>
@@ -267,8 +256,13 @@ I'm passionate about creating **meaningful technology solutions** that make a re
 
 </details>
 
-**Thanks for visiting my digital space! ⭐ Star repositories that inspire you!**
+---
 
-*"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie*
+🌟 **Thanks for visiting my digital space!** 🌟
+
+**⭐ Star repositories that inspire you! ⭐**
+
+*"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*
+**- Patrick McKenzie**
 
 </div>
