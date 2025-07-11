@@ -53,6 +53,7 @@ I'm a **passionate Laravel Developer** and **AI enthusiast** working at **SpeedF
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -121,26 +122,11 @@ I'm a **passionate Laravel Developer** and **AI enthusiast** working at **SpeedF
 
 ## 🎯 Current Focus
 
-```javascript
-const ahmed = {
-    currentProjects: [
-        "AI Healthcare Diagnostics Platform",
-        "Node.js Microservices Architecture", 
-        "Laravel Enterprise Applications"
-    ],
-    learning: [
-        "GraphQL & Apollo Federation",
-        "Kubernetes & DevOps",
-        "Advanced React Patterns"
-    ],
-    goals2024: [
-        "Contribute to 10+ open-source projects",
-        "Launch AI-powered SaaS platform",
-        "Mentor aspiring developers",
-        "Publish healthcare AI research"
-    ]
-};
-```
+- 🔨 **Building**: AI-powered healthcare diagnostics platform
+- 🚀 **Developing**: Node.js microservices architecture
+- 📚 **Learning**: GraphQL, Kubernetes, and advanced React patterns
+- 🌟 **Contributing**: Open-source projects and technical articles
+- 🤝 **Mentoring**: Aspiring developers in Laravel and AI/ML
 
 ---
 
