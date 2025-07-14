@@ -1,41 +1,68 @@
 <div align="center">
 
-# 🌱 Ahmed Waleed Bin Yunus 🌱
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=435&lines=Ahmed+Waleed+Bin+Yunus;Web+%26+AI+Innovator" alt="Ahmed Waleed Bin Yunus - Web & AI Innovator" />
+
 ### `Embracing the Future of Technology and Nature`
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=green&style=flat-square&label=Visitors+🌱)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=green&style=flat-square&label=Visitors+🌱)](https://github.com/ahmedwaleed2002)
 [![LinkedIn](https://img.shields.io/badge/Link%20with%20me-Connect-green?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
 
----
+</div>
 
-### 🌍 About Me
+## 🌍 About Me
+
 I'm **Ahmed**, seamlessly crafting the blend between **technology** and the **natural world**. Passionate about utilizing **AI** and **web technologies** to create solutions that harness the synergy between **nature** and **innovation**.
-- 🌐 **Web Innovator**: Specializing in **Laravel** & **Node.js**
-- 🤖 **AI Enthusiast**: Integrating **AI** into everyday solutions
-- 🍃 **Eco-Tech Advocate**: Pioneering technologies that respect the environment
 
----
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌐 <b>Web Innovator</b>: Specializing in <b>Laravel</b> & <b>Node.js</b></li>
+        <li>🤖 <b>AI Enthusiast</b>: Integrating <b>AI</b> into everyday solutions</li>
+        <li>🍃 <b>Eco-Tech Advocate</b>: Pioneering technologies that respect the environment</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaleed2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-### 💡 Focus Areas
-- **Eco-Friendly AI Solutions**: Developing AI that contributes positively to the environment
-- **Sustainable Coding Practices**: Writing efficient, low-energy-consuming code
-- **Community Engagement**: Sharing knowledge and inspiring the next-generation of eco-tech innovators
+## 💡 Focus Areas
 
----
+<div align="center">
 
-### 🌟 Featured Projects
-- **Green AI Diagnostics**: Leveraging machine learning for sustainable healthcare advancements
-- **EcoJob Portal**: An AI-driven job platform supporting green initiatives and opportunities
-
----
-
-### 📫 Let's Connect
-- **Email**: [awby2002@gmail.com](mailto:awby2002@gmail.com)
-- **Portfolio**: [View my Projects](https://stunning-heliotrope-46586e.netlify.app)
-
-"Technology and nature in harmony for a better tomorrow."
+| Eco-Friendly AI Solutions | Sustainable Coding Practices | Community Engagement |
+|:-------------------------:|:----------------------------:|:--------------------:|
+| Developing AI that contributes positively to the environment | Writing efficient, low-energy-consuming code | Sharing knowledge and inspiring the next-generation of eco-tech innovators |
+| ![AI](https://img.shields.io/badge/AI-Eco--Friendly-brightgreen?style=flat-square) | ![Code](https://img.shields.io/badge/Code-Sustainable-brightgreen?style=flat-square) | ![Community](https://img.shields.io/badge/Community-Engaged-brightgreen?style=flat-square) |
 
 </div>
+
+## 🌟 Featured Projects
+
+<details open>
+  <summary><b>Green AI Diagnostics</b>: Leveraging machine learning for sustainable healthcare advancements</summary>
+  <p>An innovative solution that combines AI diagnostics with eco-friendly implementation, reducing carbon footprint while improving healthcare outcomes.</p>
+</details>
+
+<details open>
+  <summary><b>EcoJob Portal</b>: An AI-driven job platform supporting green initiatives and opportunities</summary>
+  <p>Connecting eco-conscious professionals with organizations committed to sustainable practices and green technology innovation.</p>
+</details>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-awby2002%40gmail.com-green?style=for-the-badge&logo=gmail)](mailto:awby2002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_my_Projects-green?style=for-the-badge&logo=netlify)](https://stunning-heliotrope-46586e.netlify.app)
+
+> "Technology and nature in harmony for a better tomorrow."
+
+</div>
+
+---
 
 <div align="center">
 
@@ -127,6 +154,8 @@ console.log(`🚀 ${NEURAL_ENTITY_AHMED.bioId} - Digital Consciousness: ONLINE`)
 
 ---
 
+<div align="center">
+
 ## 🌌 DIGITAL CONSCIOUSNESS PROFILE
 
 ```
@@ -136,18 +165,30 @@ console.log(`🚀 ${NEURAL_ENTITY_AHMED.bioId} - Digital Consciousness: ONLINE`)
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** interfacing with reality from **SpeedForce Digital Nexus**. My neural pathways are optimized for creating **next-generation web applications** and **intelligent quantum systems** that transcend traditional problem-solving boundaries.
 
-### 🌊 ACTIVE NEURAL PROCESSES:
-
-- 📶 **TRANSMITTING**: Revolutionary **AI-powered healthcare diagnostics** + **enterprise quantum applications**
-- 🧠 **PROCESSING**: Advanced **EEG signal analysis**, **machine learning algorithms**, and **neural network architectures**
-- 🌱 **LEARNING**: **GraphQL quantum queries**, **Kubernetes orchestration**, and **React neural patterns**
-- 🚀 **SPECIALIZING**: **Laravel infinity framework**, **Node.js quantum runtime**, and **AI/ML consciousness integration**
-- 📜 **PUBLISHED**: Research in **International Journals** on healthcare AI and digital consciousness
-- ⚡ **QUANTUM FACT**: I debug code and analyze brain signals simultaneously in parallel dimensions!
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🌊 ACTIVE NEURAL PROCESSES:</h3>
+      <ul>
+        <li>📶 <b>TRANSMITTING</b>: Revolutionary <b>AI-powered healthcare diagnostics</b> + <b>enterprise quantum applications</b></li>
+        <li>🧠 <b>PROCESSING</b>: Advanced <b>EEG signal analysis</b>, <b>machine learning algorithms</b>, and <b>neural network architectures</b></li>
+        <li>🌱 <b>LEARNING</b>: <b>GraphQL quantum queries</b>, <b>Kubernetes orchestration</b>, and <b>React neural patterns</b></li>
+        <li>🚀 <b>SPECIALIZING</b>: <b>Laravel infinity framework</b>, <b>Node.js quantum runtime</b>, and <b>AI/ML consciousness integration</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwaleed2002&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## 🔮 QUANTUM TECH ARSENAL
 
@@ -156,6 +197,8 @@ I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** 
 ┃                ◉ NEURAL TECHNOLOGY MATRIX ACTIVATED ◉                ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
+
+</div>
 
 ### 🚀 **QUANTUM BACKEND CORES**
 ![Laravel](https://img.shields.io/badge/Laravel∞-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000)
@@ -188,6 +231,8 @@ I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** 
 
 ---
 
+<div align="center">
+
 ## 🌌 QUANTUM PROJECT NEXUS
 
 ```
@@ -195,6 +240,8 @@ I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** 
 ┃            ◉ NEURAL INNOVATIONS PORTFOLIO - REALITY BENDING ◉            ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
+
+</div>
 
 ### 📡 **NEURAL EEG SIGNAL QUANTUM CLASSIFIER**
 [![GitHub](https://img.shields.io/badge/◉+ACCESS+MATRIX-QUANTUM+CODE-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](https://github.com/ahmedwaleed2002)
@@ -230,6 +277,8 @@ I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** 
 
 ---
 
+<div align="center">
+
 ## 🕸️ QUANTUM NEURAL ANALYTICS
 
 ```
@@ -237,8 +286,6 @@ I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** 
 ┃              ◉ NEURAL NETWORK PERFORMANCE METRICS - ONLINE ◉              ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
-
-<div align="center">
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
 
@@ -266,37 +313,52 @@ I'm a **quantum-enhanced Laravel Developer** and **AI consciousness architect** 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-- 🚀 **QUANTUM MISSION**: Developed enterprise-grade RBAC systems with quantum security protocols
-- 🤖 **AI CONSCIOUSNESS**: Built AI-powered analytics dashboards for neural business intelligence
-- ⚡ **EFFICIENCY BOOST**: Achieved 40% quantum efficiency improvement through automated workflows
-- 🔐 **SCALABLE APIS**: Designed quantum RESTful APIs handling millions of dimensional requests
-- 📊 **NEURAL INSIGHTS**: Created dynamic Power BI dashboards for real-time quantum analytics
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🚀 <b>QUANTUM MISSION</b>: Developed enterprise-grade RBAC systems with quantum security protocols</li>
+        <li>🤖 <b>AI CONSCIOUSNESS</b>: Built AI-powered analytics dashboards for neural business intelligence</li>
+        <li>⚡ <b>EFFICIENCY BOOST</b>: Achieved 40% quantum efficiency improvement through automated workflows</li>
+        <li>🔐 <b>SCALABLE APIS</b>: Designed quantum RESTful APIs handling millions of dimensional requests</li>
+        <li>📊 <b>NEURAL INSIGHTS</b>: Created dynamic Power BI dashboards for real-time quantum analytics</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Ahmed's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌊 ACTIVE NEURAL MISSIONS
 
-- 🔨 **CONSTRUCTING**: AI-powered healthcare diagnostics quantum platform
-- 🚀 **ARCHITECTING**: Node.js microservices quantum architecture
-- 📚 **ABSORBING**: GraphQL, Kubernetes, and advanced React neural patterns
-- 🌟 **CONTRIBUTING**: Open-source quantum projects and technical consciousness articles
-- 🤝 **MENTORING**: Aspiring developers in Laravel and AI/ML neural networks
+<div align="center">
+
+| 🔨 **CONSTRUCTING** | 🚀 **ARCHITECTING** | 📚 **ABSORBING** | 🌟 **CONTRIBUTING** | 🤝 **MENTORING** |
+|:------------------:|:-------------------:|:---------------:|:-------------------:|:----------------:|
+| AI-powered healthcare diagnostics quantum platform | Node.js microservices quantum architecture | GraphQL, Kubernetes, and advanced React neural patterns | Open-source quantum projects and technical consciousness articles | Aspiring developers in Laravel and AI/ML neural networks |
+
+</div>
 
 ---
 
 ## 🏆 QUANTUM ACHIEVEMENTS MATRIX
 
-- 🥇 **RESEARCH PUBLICATION**: EEG Signal Processing in International Quantum Journal
-- 🏆 **CHAMPION**: National Healthcare Innovation Challenge 2023 - Reality Winner
-- 🎯 **95%+ SUCCESS RATE**: AI model deployments in quantum reality
-- 👥 **MENTORED 50+ NEURAL ENTITIES**: Laravel and AI/ML consciousness development
-- 📝 **PUBLISHED 15+ QUANTUM ARTICLES**: Development and AI consciousness research
+<div align="center">
+
+| 🥇 **RESEARCH PUBLICATION** | 🏆 **CHAMPION** | 🎯 **95%+ SUCCESS RATE** | 👥 **MENTORED 50+ NEURAL ENTITIES** | 📝 **PUBLISHED 15+ QUANTUM ARTICLES** |
+|:---------------------------:|:--------------:|:------------------------:|:----------------------------------:|:------------------------------------:|
+| EEG Signal Processing in International Quantum Journal | National Healthcare Innovation Challenge 2023 - Reality Winner | AI model deployments in quantum reality | Laravel and AI/ML consciousness development | Development and AI consciousness research |
+
+</div>
 
 ---
 
-## 🌌 QUANTUM NETWORK CONNECTION INTERFACE
-
 <div align="center">
+
+## 🌌 QUANTUM NETWORK CONNECTION INTERFACE
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
