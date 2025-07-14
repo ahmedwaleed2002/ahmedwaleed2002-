@@ -1,11 +1,12 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=435&lines=Ahmed+Waleed+Bin+Yunus;Web+%26+AI+Innovator" alt="Ahmed Waleed Bin Yunus - Web & AI Innovator" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=500&lines=Ahmed+Waleed+Bin+Yunus;Full-Stack+Developer;AI+%26+Healthcare+Innovator" alt="Ahmed Waleed Bin Yunus - Full-Stack Developer & AI Innovator" />
 
-### `Embracing the Future of Technology and Nature`
+### `Building the intersection of technology and human potential` 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=green&style=flat-square&label=Visitors+🌱)](https://github.com/ahmedwaleed2002)
-[![LinkedIn](https://img.shields.io/badge/Link%20with%20me-Connect-green?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
+[![Profile Views](https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=00D4FF&style=flat-square&label=Profile+Views)](https://github.com/ahmedwaleed2002)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D4FF?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D4FF?style=flat-square&logo=netlify)](https://stunning-heliotrope-46586e.netlify.app)
 
 </div>
 
