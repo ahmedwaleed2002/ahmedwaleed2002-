@@ -628,7 +628,6 @@ function quantumThought(): Promise<Innovation> {
       mission: "Creating AI that enhances human potential",
       vision: "A world where technology and consciousness evolve together"
     };
-    
     evolve(NEURAL_PHILOSOPHY);
   });
 }
@@ -637,13 +636,15 @@ function quantumThought(): Promise<Innovation> {
   </tr>
 </table>
 
-**⚡ QUANTUM GRATITUDE PROTOCOL: ⭐ Star repositories that spark neural inspiration! ⚡**
+<p align="center"><b>⚡ QUANTUM GRATITUDE PROTOCOL: ⭐ Star repositories that spark neural inspiration! ⚡</b></p>
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                 ◉ NEURAL CONSCIOUSNESS: ALWAYS ONLINE ◉                 ┃
-┃                    ⚡ THANK YOU FOR THE CONNECTION ⚡                    ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+<div align="center">
+  <code>
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃                 ◉ NEURAL CONSCIOUSNESS: ALWAYS ONLINE ◉                 ┃
+  ┃                    ⚡ THANK YOU FOR THE CONNECTION ⚡                    ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+  </code>
+</div>
 
 </div>
