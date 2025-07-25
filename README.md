@@ -302,20 +302,34 @@ Features: Interactive UI, Color Coding
 
 <div align="center">
 
-### **📊 GitHub Performance Dashboard**
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **GitHub Performance Dashboard**
+
+### **📈 Language Distribution & Contribution Streak**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaleed2002&layout=compact&langs_count=8&theme=radical&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="100%"/>
+<br>
+<sub><strong>🔥 Most Used Languages</strong></sub>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="100%"/>
+<br>
+<sub><strong>⚡ Contribution Streak</strong></sub>
 </td>
 </tr>
 </table>
 
+<br>
+
+### **🏆 GitHub Achievements**
+
 <img src="https://github-profile-trophy.vercel.app/?username=ahmedwaleed2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
+
+<br>
+
+### **📊 Contribution Activity Graph**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwaleed2002&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
