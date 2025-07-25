@@ -314,7 +314,7 @@ Features: Interactive UI, Color Coding
 <sub><strong>🔥 Most Used Languages</strong></sub>
 </td>
 <td width="50%" align="center">
-<img src="https://streak-stats.demolab.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/ahmedwaleed2002?theme=dark&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" alt="GitHub Streak Stats"/>
 <br>
 <sub><strong>⚡ Contribution Streak</strong></sub>
 </td>
