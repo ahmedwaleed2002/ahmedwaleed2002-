@@ -207,26 +207,7 @@ Features: Interactive UI, Color Coding
 </tr>
 </table>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **GitHub Analytics**
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117"/>
-</td>
-<td width="50%">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaleed2002&layout=compact&langs_count=8&theme=radical&title_color=00D9FF&text_color=ffffff&bg_color=0D1117"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedwaleed2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
-
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Current Focus & Objectives**
 
@@ -286,29 +267,87 @@ Features: Interactive UI, Color Coding
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Let's Connect
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Connect & Collaborate**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **🌐 Professional Networks**
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awby2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://stunning-heliotrope-46586e.netlify.app)
+
+**💬 Open to discuss:**
+`AI Research` • `Healthcare Tech` • `Collaboration Opportunities` • `Open Source Projects`
+
+</td>
+<td width="50%" align="center">
+
+### **🚀 Quick Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="100%"/>
+
+**🎯 Focus Areas:**
+`Neural Engineering` • `Full-Stack Development` • `Research Innovation`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awby2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://stunning-heliotrope-46586e.netlify.app)
+### **📊 GitHub Performance Dashboard**
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaleed2002&layout=compact&langs_count=8&theme=radical&title_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="100%"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedwaleed2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwaleed2002&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-<img src="https://img.shields.io/badge/💡-Innovation_happens_when_technology_meets_human_needs-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Quote"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+<br>
+<img src="https://img.shields.io/badge/💡-Innovation_happens_when_technology_meets_human_needs-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Philosophy"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🤝-Open_to_collaboration_•_Let's_build_the_future_together!-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Collaboration"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br>
+<img src="https://img.shields.io/badge/⭐-Thanks_for_visiting!_Don't_forget_to_star_interesting_repos-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Thanks"/>
 <br><br>
-
-<img src="https://img.shields.io/badge/⭐-Feel_free_to_explore_my_repositories_and_collaborate!-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Collaboration"/>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</td>
+</tr>
+</table>
 
 </div>
