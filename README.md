@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Waleed%20Bin%20Yunus&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=🧠+Neural+Engineer+%26+AI+Researcher;🚀+Full-Stack+Developer;🔬+EEG+Signal+Processing+Specialist;💡+Healthcare+Technology+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A7%A0+Neural+Engineer+%26+AI+Researcher;%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%94%AC+EEG+Signal+Processing+Specialist;%F0%9F%92%A1+Healthcare+Technology+Innovator" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌟-Building_the_Future_of_HealthTech-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF" alt="Mission"/>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/ahmedwaleed2002)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://stunning-heliotrope-46586e.netlify.app)
 
 </div>
@@ -22,37 +22,37 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  specialization: string[];
-  currentMission: string;
-  techStack: {
-    languages: string[];
-    frameworks: string[];
-    aiTools: string[];
-    databases: string[];
-  };
-  interests: string[];
-  collaboration: boolean;
-}
+<div align="center">
 
-const ahmed: Developer = {
-  name: "Ahmed Waleed Bin Yunus",
-  role: "Full-Stack Developer & AI Researcher",
-  specialization: ["EEG Signal Processing", "Healthcare AI", "Neural Networks"],
-  currentMission: "Bridging neuroscience and technology for better healthcare",
-  techStack: {
-    languages: ["Python", "JavaScript", "PHP", "MATLAB"],
-    frameworks: ["Laravel", "Vue.js", "Node.js", "TensorFlow"],
-    aiTools: ["PyTorch", "scikit-learn", "Pandas", "OpenCV"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"]
-  },
-  interests: ["Brain-Computer Interfaces", "Healthcare Innovation", "Open Source"],
-  collaboration: true
-};
-```
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</td>
+<td align="left" width="50%">
+
+### 🚀 **Who Am I?**
+
+I'm a **passionate full-stack developer** and **AI researcher** with a deep focus on **healthcare technology**. Currently pursuing my degree while working on cutting-edge projects that merge **machine learning** with real-world applications.
+
+### 🎯 **My Mission**
+> *"Bridging neuroscience and technology to create better healthcare solutions"*
+
+### 🔬 **Research Focus**
+- **EEG Signal Processing** & Brain-Computer Interfaces
+- **Healthcare AI** & Diagnostic Systems
+- **Neural Networks** & Pattern Recognition
+
+### 💡 **What Drives Me**
+- 🧠 **Innovation** in healthcare technology
+- 🌍 **Impact** through open-source contributions
+- 🤝 **Collaboration** with fellow researchers & developers
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -196,29 +196,60 @@ const ahmed: Developer = {
 
 </div>
 
-## 🎯 Current Focus
-
-- 🔬 **Research**: Advanced EEG signal processing and brain-computer interfaces
-- 🚀 **Development**: Building scalable web applications with modern frameworks
-- 📚 **Learning**: Deep learning architectures and cloud computing
-- 🤝 **Collaboration**: Open to collaborating on AI and healthcare projects
-
-## 📫 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Current Focus
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awby2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://stunning-heliotrope-46586e.netlify.app)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+<br><strong>🔬 Research</strong>
+<br><sub>Advanced EEG signal processing and brain-computer interfaces</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<br><strong>🚀 Development</strong>
+<br><sub>Building scalable web applications with modern frameworks</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<br><strong>📚 Learning</strong>
+<br><sub>Deep learning architectures and cloud computing</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+<br><strong>🤝 Collaboration</strong>
+<br><sub>Open to collaborating on AI and healthcare projects</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Let's Connect
 
 <div align="center">
 
-*"Innovation happens when technology meets human needs"*
+[![Email](https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awby2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waleed-bin-yunus-52a50923b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://stunning-heliotrope-46586e.netlify.app)
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaboration!**
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<img src="https://img.shields.io/badge/💡-Innovation_happens_when_technology_meets_human_needs-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Quote"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⭐-Feel_free_to_explore_my_repositories_and_collaborate!-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Collaboration"/>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 </div>
