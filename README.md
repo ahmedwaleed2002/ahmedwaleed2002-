@@ -81,38 +81,56 @@ Passionate **full-stack developer** and **AI researcher** specializing in **heal
 <tr>
 <td width="33%" align="center">
 
-**🧠 AI & Research**
-```yaml
-Primary: Python, MATLAB
-ML/DL: TensorFlow, PyTorch
-Data: Pandas, NumPy, OpenCV
-Analysis: scikit-learn, Jupyter
-Signal: EEG Processing, BCI
-```
+### **🧠 AI & Research**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+
+**Primary Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**ML/DL Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Data Processing**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Specialization**
+`EEG Processing` • `Brain-Computer Interfaces` • `Neural Networks`
 
 </td>
 <td width="33%" align="center">
 
-**🚀 Full-Stack Development**
-```yaml
-Backend: Laravel, Node.js, PHP
-Frontend: Vue.js, JavaScript, HTML5
-Styling: CSS3, Tailwind, Bootstrap
-APIs: REST, GraphQL, JSON
-Tools: Postman, VS Code
-```
+### **🚀 Full-Stack Development**
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
+
+**Backend Technologies**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend Stack**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Styling & APIs**
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Development Tools**
+`VS Code` • `Postman` • `REST APIs` • `GraphQL`
 
 </td>
 <td width="33%" align="center">
 
-**🗄️ Data & Infrastructure**
-```yaml
-Databases: MySQL, PostgreSQL, MongoDB
-Cache: Redis, Memcached
-Cloud: AWS, Digital Ocean
-DevOps: Docker, Git, CI/CD
-Monitoring: Performance Analytics
-```
+### **🗄️ Data & Infrastructure**
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Caching & Cloud**
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Expertise Areas**
+`Cloud Architecture` • `Performance Optimization` • `CI/CD Pipelines`
 
 </td>
 </tr>
@@ -217,37 +235,41 @@ Features: Interactive UI, Color Coding
 <td width="50%">
 
 ### **🎯 Active Research Areas**
-```yaml
-Primary Focus:
-  - EEG Signal Processing & Analysis
-  - Brain-Computer Interface Development
-  - Healthcare AI Diagnostic Systems
-  - Neural Pattern Recognition
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="right">
 
-Current Projects:
-  - Real-time EEG Classification
-  - Medical Data Processing Pipeline
-  - AI-Powered Health Monitoring
-  - Open Source Contributions
-```
+**🔬 Primary Focus**
+- 🧠 **EEG Signal Processing & Analysis**
+- 🤖 **Brain-Computer Interface Development**
+- 🏥 **Healthcare AI Diagnostic Systems**
+- 🕸️ **Neural Pattern Recognition**
+
+**⚡ Current Projects**
+- 📊 Real-time EEG Classification
+- 🔄 Medical Data Processing Pipeline
+- 💡 AI-Powered Health Monitoring
+- 🌐 Open Source Contributions
+
+<img src="https://img.shields.io/badge/Status-Active_Research-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Research Status"/>
 
 </td>
 <td width="50%">
 
 ### **🚀 Development Goals**
-```yaml
-Technical Growth:
-  - Advanced Deep Learning Architectures
-  - Cloud Computing & Scalability
-  - Microservices Architecture
-  - DevOps & CI/CD Implementation
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" align="right">
 
-Professional Objectives:
-  - Research Publication in AI/Healthcare
-  - Open Source Project Leadership
-  - Industry Collaboration Opportunities
-  - Knowledge Sharing & Mentorship
-```
+**📈 Technical Growth**
+- 🧠 **Advanced Deep Learning Architectures**
+- ☁️ **Cloud Computing & Scalability**
+- 🔧 **Microservices Architecture**
+- 🚀 **DevOps & CI/CD Implementation**
+
+**🎯 Professional Objectives**
+- 📝 Research Publication in AI/Healthcare
+- 👥 Open Source Project Leadership
+- 🤝 Industry Collaboration Opportunities
+- 🎓 Knowledge Sharing & Mentorship
+
+<img src="https://img.shields.io/badge/Goal-Continuous_Learning-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Learning Goal"/>
 
 </td>
 </tr>
