@@ -325,29 +325,31 @@ Features: Interactive UI, Color Coding
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+### **💭 Final Thoughts**
 
 <table>
 <tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
-<br>
+<td align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+<br><br>
 <img src="https://img.shields.io/badge/💡-Innovation_happens_when_technology_meets_human_needs-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Philosophy"/>
-</td>
-</tr>
-<tr>
-<td align="center">
+<br><br>
 <img src="https://img.shields.io/badge/🤝-Open_to_collaboration_•_Let's_build_the_future_together!-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Collaboration"/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/⭐-Thanks_for_visiting!_Don't_forget_to_star_interesting_repos-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Thanks"/>
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=ahmedwaleed2002&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<br><br>
 </td>
 </tr>
 </table>
 
+<br>
+
+**🌟 "The future belongs to those who believe in the beauty of their dreams" 🌟**
+
+<br>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&animation=twinkling"/>
