@@ -304,7 +304,7 @@ Features: Interactive UI, Color Coding
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **GitHub Performance Dashboard**
 
-### **📈 Language Distribution & Contribution Streak**
+### **📈 Development Statistics**
 
 <table>
 <tr>
@@ -314,12 +314,18 @@ Features: Interactive UI, Color Coding
 <sub><strong>🔥 Most Used Languages</strong></sub>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&hide_border=true" width="100%"/>
 <br>
 <sub><strong>⚡ Contribution Streak</strong></sub>
 </td>
 </tr>
 </table>
+
+<br>
+
+### **📊 GitHub Overview Stats**
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117&hide_border=true" width="100%"/>
 
 <br>
 
