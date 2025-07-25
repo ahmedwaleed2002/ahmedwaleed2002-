@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Waleed%20Bin%20Yunus&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%A7%A0+Neural+Engineer+%26+AI+Researcher;%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%94%AC+EEG+Signal+Processing+Specialist;%F0%9F%92%A1+Healthcare+Technology+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=🧠+Neural+Engineer+%26+AI+Researcher;🚀+Full-Stack+Developer;🔬+EEG+Signal+Processing+Specialist;💡+Healthcare+Technology+Innovator" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌟-Building_the_Future_of_HealthTech-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF" alt="Mission"/>
@@ -54,31 +54,7 @@ I'm a **passionate full-stack developer** and **AI researcher** with a deep focu
 
 </div>
 
-<div align="center">
 
-### 🎯 Current Focus Areas
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<br><strong>🧠 Neural Research</strong>
-<br>EEG signal classification & brain-computer interfaces
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><strong>🚀 Full-Stack Development</strong>
-<br>Modern web applications with AI integration
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<br><strong>🏥 Healthcare Tech</strong>
-<br>AI-powered diagnostic solutions
-</td>
-</tr>
-</table>
-
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="30"> Tech Arsenal
 
@@ -187,12 +163,24 @@ I'm a **passionate full-stack developer** and **AI researcher** with a deep focu
 
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaleed2002&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedwaleed2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwaleed2002&layout=compact&langs_count=8&theme=radical&title_color=00D9FF&text_color=ffffff&bg_color=0D1117"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwaleed2002&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwaleed2002&theme=radical&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedwaleed2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
